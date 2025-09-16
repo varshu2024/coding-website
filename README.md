@@ -1,38 +1,38 @@
-## Online Code Editor
+# Online Code Editor
 A powerful, browser-based code editor built with TypeScript and modern JavaScript. CodeCraft provides a seamless development experience with real-time preview, syntax highlighting, and a clean, intuitive interface.
 
-## ✨ Features
-# Real-time Preview: Instantly see your HTML, CSS, and JavaScript changes in a live preview pane.
+# ✨ Features
+## Real-time Preview: Instantly see your HTML, CSS, and JavaScript changes in a live preview pane.
 
-# Multi-language Support: Full support for HTML, CSS, and JavaScript out of the box.
+## Multi-language Support: Full support for HTML, CSS, and JavaScript out of the box.
 
-# Syntax Highlighting: Powered by a robust editor core (e.g., Monaco, CodeMirror) for an experience similar to VS Code.
+## Syntax Highlighting: Powered by a robust editor core (e.g., Monaco, CodeMirror) for an experience similar to VS Code.
 
-# Responsive Design: A fully responsive interface that works beautifully on desktops, tablets, and mobile devices.
+## Responsive Design: A fully responsive interface that works beautifully on desktops, tablets, and mobile devices.
 
-# Code Formatting: Integrated code formatter to keep your code clean and readable with a single click.
+## Code Formatting: Integrated code formatter to keep your code clean and readable with a single click.
 
-# Persistent State: Your code is automatically saved to the browser's local storage, so you never lose your work.
+## Persistent State: Your code is automatically saved to the browser's local storage, so you never lose your work.
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 This project was built using a modern frontend stack to ensure performance and scalability.
 
-# Core Logic: TypeScript & JavaScript (ES6+)
+## Core Logic: TypeScript & JavaScript (ES6+)
 
-# Framework: React.js (or Vue.js / Svelte / Vanilla TS - please specify your framework)
+## Framework: React.js (or Vue.js / Svelte / Vanilla TS - please specify your framework)
 
-# Editor Core: Monaco Editor (or CodeMirror / Ace - please specify)
+## Editor Core: Monaco Editor (or CodeMirror / Ace - please specify)
 
-# Styling: CSS Modules / Tailwind CSS (please specify your styling solution)
+## Styling: CSS Modules / Tailwind CSS (please specify your styling solution)
 
-# Build Tool: Vite (or Webpack / Parcel)
+## Build Tool: Vite (or Webpack / Parcel)
 
-# Deployment: Vercel / Netlify
+## Deployment: Vercel / Netlify
 
-## 🔧 Getting Started
+# 🔧 Getting Started
 Follow these instructions to get a local copy up and running for development and testing purposes.
 
-# Prerequisites
+## Prerequisites
 You need to have Node.js and npm (or yarn) installed on your machine.
 
 Node.js (v16 or higher recommended)
@@ -76,7 +76,7 @@ npm run build
 # yarn build
 This will create a dist folder in the project root, which can be deployed to any static web host.
 
-## 📂 Project Structure
+# 📂 Project Structure
 Here is a brief overview of the key files and directories:
 
 /
@@ -102,7 +102,7 @@ Here are some features planned for the future:
 
 [ ] Git integration for version control.
 
-## 🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or want to fix a bug, please feel free to:
 
 Fork the Project.
@@ -115,5 +115,5 @@ Push to the Branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-## 📄 License
+# 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
